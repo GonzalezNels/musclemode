@@ -108,7 +108,13 @@ MuscleMode Lite is a simple workout planner that generates daily routines based 
 
 ## Wireframes
 
-> Note: Replace the placeholders below with your actual sketches or digital wireframes.
+![Welcome / Mode Selection](/wireframes/homescreen.png)
+![Workout Setup](wireframes/workout_setup.png)
+![Today’s Workout](wireframes/todays_workout.png)
+![Exercise Detail](wireframes/exercise_detail.png)
+![History](wireframes/history.png)
+![Settings](wireframes/settings.png)
+
 
 ### Screens
 
@@ -118,13 +124,3 @@ MuscleMode Lite is a simple workout planner that generates daily routines based 
 4. **Exercise Detail**
 5. **History**
 6. **Settings**
-
-### Wireframe Images (to include in repo)
-
-```markdown
-![Welcome / Mode Selection](/wireframes/homescreen.png)
-![Workout Setup](wireframes/workout_setup.png)
-![Today’s Workout](wireframes/todays_workout.png)
-![Exercise Detail](wireframes/exercise_detail.png)
-![History](wireframes/history.png)
-![Settings](wireframes/settings.png)
